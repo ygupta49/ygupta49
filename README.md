@@ -4,9 +4,7 @@
 VP General Sciences @ WiSC UTM · VP Finance @ MCSS UTM  
 Currently building a portfolio of reproducible analyses & dashboards.
 
-👉 **Portfolio:** https://ygupta49.github.io/yashda-portfolio  
 🔗 **LinkedIn:** https://www.linkedin.com/in/yashdagupta  
-💻 **GitHub Projects:** more coming soon  
 🏆 **Certs:** BMC · Future of AI (BlueDot Impact, in progress) · dbt Fundamentals (DataCamp, in progress)
 
 
