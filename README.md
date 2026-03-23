@@ -5,7 +5,7 @@ VP General Sciences @ WiSC UTM · VP Finance @ MCSS UTM
 Currently building a portfolio of reproducible analyses & dashboards.
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/yashdagupta  
-🏆 **Certs:** BMC · Future of AI (BlueDot Impact, in progress) · dbt Fundamentals (DataCamp, in progress)
+🏆 **Certs:** BMC · Future of AI · dbt Fundamentals (DataCamp, in progress)
 
 
 <!--
